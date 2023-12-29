@@ -18,9 +18,8 @@ Pinny🐷
 ### 개발 엔진 및 언어
 React,MySQL,SpringBoot
 ### 멤버
-|<img src="https://github.com/PostRecall/.github/assets/113195498/4b1427da-ebde-41da-b3e6-03eb87bb9b49" width="130">|<img src="https://github.com/pinny2024/.github/assets/113195498/a2933363-edcd-4b09-93c5-9ec21dd0f4ff" width="130">|<img src="https://github.com/pinny2024/.github/assets/113195498/a2933363-edcd-4b09-93c5-9ec21dd0f4ff" width="130">|<img src="![image](https://github.com/pinny2024/.github/assets/113195498/7644ab26-1476-409a-a07d-9783709a47ab)
-" width="130">|
-|:---:|:---:|
+|<img src="https://github.com/PostRecall/.github/assets/113195498/4b1427da-ebde-41da-b3e6-03eb87bb9b49" width="130">|<img src="https://github.com/pinny2024/.github/assets/113195498/a2933363-edcd-4b09-93c5-9ec21dd0f4ff" width="130">|<img src="https://github.com/pinny2024/.github/assets/113195498/a2933363-edcd-4b09-93c5-9ec21dd0f4ff" width="130">|<img src="https://github.com/pinny2024/.github/assets/113195498/7644ab26-1476-409a-a07d-9783709a47ab" width="130">|
+|:---:|:---:|:---:|:---:|
 |<a href="https://github.com/seyeonparkk">박세연</a>|<a href="https://github.com/mic050r">노하은</a>|<a href="https://github.com/mic050r">정선영</a>|<a href="https://github.com/mic050r">김하은</a>|
 
 
