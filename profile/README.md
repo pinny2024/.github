@@ -1,7 +1,7 @@
 
-<h2>[2023] POSTRECALL 제작 📝</h2>
+<h2>[2024] PINNY 제작 🐷 </h2>
 
-> 학습자들이 퀴즈, 개념 정리, 오답 노트를 포스트잇 형식으로 작성하고 중요도를 부여하여 효율적으로 공부하고,<br> 타이핑으로 개념을 익히며 스티커 메모를 활용해 시각적으로 관리할 수 있는 학습 도우미 앱🍀
+> 용돈기입장과 퀘스를 이용하여 사용자들의 지출을 감소화시킬 수 있는 금융관련 앱🍀
 
 </div>
 
@@ -12,15 +12,16 @@
 
 ## 개요
 ### 프로젝트 이름
-PostRecall📝
+Pinny🐷
 ### 프로젝트 지속기간
-2023.08-2023.11
+2023.12-현재 진행중
 ### 개발 엔진 및 언어
-HTML,JS,CSS,Node.js,MariaDB
+React,MySQL,SpringBoot
 ### 멤버
-|<img src="https://github.com/PostRecall/.github/assets/113195498/4b1427da-ebde-41da-b3e6-03eb87bb9b49" width="130">|<img src="https://github.com/PostRecall/.github/assets/113195498/ca9ced0d-6184-4e97-a757-8895c3895ca8" width="130">|
+|<img src="https://github.com/PostRecall/.github/assets/113195498/4b1427da-ebde-41da-b3e6-03eb87bb9b49" width="130">|<img src="https://github.com/pinny2024/.github/assets/113195498/a2933363-edcd-4b09-93c5-9ec21dd0f4ff" width="130">|<img src="https://github.com/pinny2024/.github/assets/113195498/a2933363-edcd-4b09-93c5-9ec21dd0f4ff" width="130">|<img src="![image](https://github.com/pinny2024/.github/assets/113195498/7644ab26-1476-409a-a07d-9783709a47ab)
+" width="130">|
 |:---:|:---:|
-|<a href="https://github.com/seyeonparkk">박세연</a>|<a href="https://github.com/mic050r">임지현</a>|
+|<a href="https://github.com/seyeonparkk">박세연</a>|<a href="https://github.com/mic050r">노하은</a>|<a href="https://github.com/mic050r">정선영</a>|<a href="https://github.com/mic050r">김하은</a>|
 
 
 
