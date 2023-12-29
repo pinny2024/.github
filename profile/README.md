@@ -20,7 +20,7 @@ React,MySQL,SpringBoot
 ### 멤버
 |<img src="https://github.com/pinny2024/.github/assets/113195498/f82209a6-6708-4da4-b0fc-3ca674f4a3c2" width="130">|<img src="https://github.com/pinny2024/.github/assets/113195498/a2933363-edcd-4b09-93c5-9ec21dd0f4ff" width="130">|<img src="https://github.com/pinny2024/.github/assets/113195498/a2933363-edcd-4b09-93c5-9ec21dd0f4ff" width="130">|<img src="https://github.com/pinny2024/.github/assets/113195498/7644ab26-1476-409a-a07d-9783709a47ab" width="130">|
 |:---:|:---:|:---:|:---:|
-|<a href="https://github.com/seyeonparkk">박세연</a>|<a href="https://github.com/mic050r">노하은</a>|<a href="https://github.com/mic050r">정선영</a>|<a href="https://github.com/mic050r">김하은</a>|
+|<a href="https://github.com/seyeonparkk">박세연</a>|<a href="https://github.com/haeunNoh06">노하은</a>|<a href="https://github.com/seonyo">정선영</a>|<a href="https://github.com/rlagkdms">김하은</a>|
 
 
 
